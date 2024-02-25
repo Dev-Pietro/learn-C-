@@ -1,0 +1,14 @@
+C:\Gabriel\Dev\C#\Projetos\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Gabriel\Dev\C#\Projetos\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Gabriel\Dev\C#\Projetos\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Gabriel\Dev\C#\Projetos\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Gabriel\Dev\C#\Projetos\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Gabriel\Dev\C#\Projetos\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Projetos\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Projetos\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Projetos\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Projetos\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Gabriel\Dev\C#\Projetos\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Gabriel\Dev\C#\Projetos\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Gabriel\Dev\C#\Projetos\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Projetos\Calculator\obj\Debug\net8.0\ref\Calculator.dll
