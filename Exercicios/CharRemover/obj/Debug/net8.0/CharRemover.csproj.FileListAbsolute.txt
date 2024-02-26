@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\bin\Debug\net8.0\CharRemover.exe
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\bin\Debug\net8.0\CharRemover.deps.json
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\bin\Debug\net8.0\CharRemover.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\bin\Debug\net8.0\CharRemover.dll
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\bin\Debug\net8.0\CharRemover.pdb
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\CharRemover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\CharRemover.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\CharRemover.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\CharRemover.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\CharRemover.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\CharRemover.dll
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\refint\CharRemover.dll
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\CharRemover.pdb
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\CharRemover.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\CharRemover\obj\Debug\net8.0\ref\CharRemover.dll
