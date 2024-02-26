@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharRemover")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+557f90b1e9073d12191f0f88706db76b2894a1e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e39cf5ff4a95191b0fcaf01eb2863c921c42881")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharRemover")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharRemover")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
