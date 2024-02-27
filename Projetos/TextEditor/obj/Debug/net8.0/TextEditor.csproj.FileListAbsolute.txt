@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.exe
+C:\Gabriel\Dev\C#\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+C:\Gabriel\Dev\C#\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+C:\Gabriel\Dev\C#\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.dll
+C:\Gabriel\Dev\C#\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.sourcelink.json
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.dll
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Projetos\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
