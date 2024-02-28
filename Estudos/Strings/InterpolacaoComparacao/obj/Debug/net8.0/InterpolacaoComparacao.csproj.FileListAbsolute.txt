@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\bin\Debug\net8.0\InterpolacaoComparacao.exe
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\bin\Debug\net8.0\InterpolacaoComparacao.deps.json
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\bin\Debug\net8.0\InterpolacaoComparacao.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\bin\Debug\net8.0\InterpolacaoComparacao.dll
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\bin\Debug\net8.0\InterpolacaoComparacao.pdb
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\InterpolacaoComparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\InterpolacaoComparacao.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\InterpolacaoComparacao.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\InterpolacaoComparacao.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\InterpolacaoComparacao.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\InterpolacaoComparacao.dll
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\refint\InterpolacaoComparacao.dll
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\InterpolacaoComparacao.pdb
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\InterpolacaoComparacao.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\Strings\InterpolacaoComparacao\obj\Debug\net8.0\ref\InterpolacaoComparacao.dll
