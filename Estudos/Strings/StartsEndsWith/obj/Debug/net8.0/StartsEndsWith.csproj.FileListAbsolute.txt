@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\bin\Debug\net8.0\StartsEndsWith.exe
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\bin\Debug\net8.0\StartsEndsWith.deps.json
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\bin\Debug\net8.0\StartsEndsWith.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\bin\Debug\net8.0\StartsEndsWith.dll
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\bin\Debug\net8.0\StartsEndsWith.pdb
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\StartsEndsWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\StartsEndsWith.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\StartsEndsWith.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\StartsEndsWith.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\StartsEndsWith.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\StartsEndsWith.dll
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\refint\StartsEndsWith.dll
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\StartsEndsWith.pdb
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\StartsEndsWith.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\Strings\StartsEndsWith\obj\Debug\net8.0\ref\StartsEndsWith.dll
