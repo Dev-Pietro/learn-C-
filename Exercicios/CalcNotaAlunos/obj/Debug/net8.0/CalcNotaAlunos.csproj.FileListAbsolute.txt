@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\bin\Debug\net8.0\CalcNotaAlunos.exe
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\bin\Debug\net8.0\CalcNotaAlunos.deps.json
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\bin\Debug\net8.0\CalcNotaAlunos.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\bin\Debug\net8.0\CalcNotaAlunos.dll
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\bin\Debug\net8.0\CalcNotaAlunos.pdb
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\CalcNotaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\CalcNotaAlunos.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\CalcNotaAlunos.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\CalcNotaAlunos.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\CalcNotaAlunos.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\CalcNotaAlunos.dll
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\refint\CalcNotaAlunos.dll
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\CalcNotaAlunos.pdb
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\CalcNotaAlunos.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaAlunos\obj\Debug\net8.0\ref\CalcNotaAlunos.dll
