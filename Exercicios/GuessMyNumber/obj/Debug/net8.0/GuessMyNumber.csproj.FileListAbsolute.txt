@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\GuessMyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\GuessMyNumber.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\GuessMyNumber.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\GuessMyNumber.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\GuessMyNumber.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\bin\Debug\net8.0\GuessMyNumber.exe
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\bin\Debug\net8.0\GuessMyNumber.deps.json
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\bin\Debug\net8.0\GuessMyNumber.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\bin\Debug\net8.0\GuessMyNumber.dll
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\bin\Debug\net8.0\GuessMyNumber.pdb
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\GuessMyNumber.dll
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\refint\GuessMyNumber.dll
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\GuessMyNumber.pdb
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\GuessMyNumber.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\GuessMyNumber\obj\Debug\net8.0\ref\GuessMyNumber.dll
