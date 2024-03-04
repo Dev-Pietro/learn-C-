@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\Matrizes_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\Matrizes_ForEach.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\Matrizes_ForEach.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\Matrizes_ForEach.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\Matrizes_ForEach.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\bin\Debug\net8.0\Matrizes_ForEach.exe
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\bin\Debug\net8.0\Matrizes_ForEach.deps.json
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\bin\Debug\net8.0\Matrizes_ForEach.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\bin\Debug\net8.0\Matrizes_ForEach.dll
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\bin\Debug\net8.0\Matrizes_ForEach.pdb
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\Matrizes_ForEach.dll
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\refint\Matrizes_ForEach.dll
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\Matrizes_ForEach.pdb
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\Matrizes_ForEach.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\Matrizes_ForEach\obj\Debug\net8.0\ref\Matrizes_ForEach.dll
