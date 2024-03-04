@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\bin\Debug\net8.0\FraudlentOrders.exe
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\bin\Debug\net8.0\FraudlentOrders.deps.json
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\bin\Debug\net8.0\FraudlentOrders.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\bin\Debug\net8.0\FraudlentOrders.dll
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\bin\Debug\net8.0\FraudlentOrders.pdb
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\FraudlentOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\FraudlentOrders.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\FraudlentOrders.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\FraudlentOrders.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\FraudlentOrders.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\FraudlentOrders.dll
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\refint\FraudlentOrders.dll
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\FraudlentOrders.pdb
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\FraudlentOrders.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\FraudlentOrders\obj\Debug\net8.0\ref\FraudlentOrders.dll
