@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\bin\Debug\net8.0\CalcNotaArray.exe
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\bin\Debug\net8.0\CalcNotaArray.deps.json
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\bin\Debug\net8.0\CalcNotaArray.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\bin\Debug\net8.0\CalcNotaArray.dll
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\bin\Debug\net8.0\CalcNotaArray.pdb
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\CalcNotaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\CalcNotaArray.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\CalcNotaArray.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\CalcNotaArray.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\CalcNotaArray.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\CalcNotaArray.dll
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\refint\CalcNotaArray.dll
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\CalcNotaArray.pdb
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\CalcNotaArray.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\CalcNotaArray\obj\Debug\net8.0\ref\CalcNotaArray.dll
