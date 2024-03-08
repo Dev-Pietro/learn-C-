@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\bin\Debug\net8.0\ExSwitchCase.exe
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\bin\Debug\net8.0\ExSwitchCase.deps.json
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\bin\Debug\net8.0\ExSwitchCase.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\bin\Debug\net8.0\ExSwitchCase.dll
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\bin\Debug\net8.0\ExSwitchCase.pdb
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\ExSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\ExSwitchCase.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\ExSwitchCase.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\ExSwitchCase.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\ExSwitchCase.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\ExSwitchCase.dll
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\refint\ExSwitchCase.dll
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\ExSwitchCase.pdb
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\ExSwitchCase.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\ExSwitchCase\obj\Debug\net8.0\ref\ExSwitchCase.dll
