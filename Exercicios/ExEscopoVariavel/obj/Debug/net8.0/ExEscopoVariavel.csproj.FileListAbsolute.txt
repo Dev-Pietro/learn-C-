@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\bin\Debug\net8.0\ExEscopoVariavel.exe
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\bin\Debug\net8.0\ExEscopoVariavel.deps.json
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\bin\Debug\net8.0\ExEscopoVariavel.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\bin\Debug\net8.0\ExEscopoVariavel.dll
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\bin\Debug\net8.0\ExEscopoVariavel.pdb
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\ExEscopoVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\ExEscopoVariavel.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\ExEscopoVariavel.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\ExEscopoVariavel.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\ExEscopoVariavel.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\ExEscopoVariavel.dll
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\refint\ExEscopoVariavel.dll
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\ExEscopoVariavel.pdb
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\ExEscopoVariavel.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\ExEscopoVariavel\obj\Debug\net8.0\ref\ExEscopoVariavel.dll
