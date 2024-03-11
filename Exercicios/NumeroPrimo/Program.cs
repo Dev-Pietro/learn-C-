@@ -13,11 +13,18 @@ namespace NumeroPrimo
 
         static bool VerificaPrimo(int num)
         {
-            if (num == 2 || num == 3)
-                return true;
-            
-            if (num % 2 == 0 || num % 3 == 0)
+            if (num % 2 == 0) {
+                if (num == 2) {
+                    return true;
+                }
                 return false;
+            }
+            
+            for(int i = 3; i < num; i+=2) {
+                if (num % i == 0) {
+                    return false;
+                }
+            }
             
             return true;
         }
