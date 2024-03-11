@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\bin\Debug\net8.0\RPGWhile.exe
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\bin\Debug\net8.0\RPGWhile.deps.json
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\bin\Debug\net8.0\RPGWhile.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\bin\Debug\net8.0\RPGWhile.dll
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\bin\Debug\net8.0\RPGWhile.pdb
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\RPGWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\RPGWhile.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\RPGWhile.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\RPGWhile.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\RPGWhile.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\RPGWhile.dll
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\refint\RPGWhile.dll
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\RPGWhile.pdb
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\RPGWhile.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\RPGWhile\obj\Debug\net8.0\ref\RPGWhile.dll
