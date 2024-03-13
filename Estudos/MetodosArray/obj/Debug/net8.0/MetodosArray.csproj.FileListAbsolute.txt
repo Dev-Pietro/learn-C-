@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\MetodosArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\MetodosArray.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\MetodosArray.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\MetodosArray.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\MetodosArray.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\bin\Debug\net8.0\MetodosArray.exe
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\bin\Debug\net8.0\MetodosArray.deps.json
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\bin\Debug\net8.0\MetodosArray.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\bin\Debug\net8.0\MetodosArray.dll
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\bin\Debug\net8.0\MetodosArray.pdb
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\MetodosArray.dll
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\refint\MetodosArray.dll
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\MetodosArray.pdb
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\MetodosArray.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\MetodosArray\obj\Debug\net8.0\ref\MetodosArray.dll
