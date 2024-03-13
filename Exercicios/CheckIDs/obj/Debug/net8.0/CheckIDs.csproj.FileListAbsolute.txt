@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\bin\Debug\net8.0\CheckIDs.exe
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\bin\Debug\net8.0\CheckIDs.deps.json
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\bin\Debug\net8.0\CheckIDs.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\bin\Debug\net8.0\CheckIDs.dll
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\bin\Debug\net8.0\CheckIDs.pdb
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\CheckIDs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\CheckIDs.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\CheckIDs.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\CheckIDs.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\CheckIDs.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\CheckIDs.dll
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\refint\CheckIDs.dll
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\CheckIDs.pdb
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\CheckIDs.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\CheckIDs\obj\Debug\net8.0\ref\CheckIDs.dll
