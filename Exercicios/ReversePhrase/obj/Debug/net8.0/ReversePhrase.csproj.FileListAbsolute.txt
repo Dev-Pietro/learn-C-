@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\bin\Debug\net8.0\ReversePhrase.exe
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\bin\Debug\net8.0\ReversePhrase.deps.json
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\bin\Debug\net8.0\ReversePhrase.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\bin\Debug\net8.0\ReversePhrase.dll
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\bin\Debug\net8.0\ReversePhrase.pdb
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\ReversePhrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\ReversePhrase.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\ReversePhrase.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\ReversePhrase.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\ReversePhrase.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\ReversePhrase.dll
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\refint\ReversePhrase.dll
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\ReversePhrase.pdb
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\ReversePhrase.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\ReversePhrase\obj\Debug\net8.0\ref\ReversePhrase.dll
