@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\bin\Debug\net8.0\MaiorValor.exe
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\bin\Debug\net8.0\MaiorValor.deps.json
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\bin\Debug\net8.0\MaiorValor.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\bin\Debug\net8.0\MaiorValor.dll
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\bin\Debug\net8.0\MaiorValor.pdb
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\MaiorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\MaiorValor.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\MaiorValor.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\MaiorValor.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\MaiorValor.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\MaiorValor.dll
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\refint\MaiorValor.dll
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\MaiorValor.pdb
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\MaiorValor.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\MaiorValor\obj\Debug\net8.0\ref\MaiorValor.dll
