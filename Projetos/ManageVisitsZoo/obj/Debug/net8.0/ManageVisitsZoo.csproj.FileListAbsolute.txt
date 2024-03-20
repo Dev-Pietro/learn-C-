@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\ManageVisitsZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\ManageVisitsZoo.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\ManageVisitsZoo.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\ManageVisitsZoo.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\ManageVisitsZoo.sourcelink.json
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\bin\Debug\net8.0\ManageVisitsZoo.exe
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\bin\Debug\net8.0\ManageVisitsZoo.deps.json
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\bin\Debug\net8.0\ManageVisitsZoo.runtimeconfig.json
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\bin\Debug\net8.0\ManageVisitsZoo.dll
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\bin\Debug\net8.0\ManageVisitsZoo.pdb
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\ManageVisitsZoo.dll
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\refint\ManageVisitsZoo.dll
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\ManageVisitsZoo.pdb
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\ManageVisitsZoo.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Projetos\ManageVisitsZoo\obj\Debug\net8.0\ref\ManageVisitsZoo.dll
