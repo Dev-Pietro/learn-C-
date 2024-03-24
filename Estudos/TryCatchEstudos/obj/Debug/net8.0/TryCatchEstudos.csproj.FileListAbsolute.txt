@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\bin\Debug\net8.0\TryCatchEstudos.exe
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\bin\Debug\net8.0\TryCatchEstudos.deps.json
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\bin\Debug\net8.0\TryCatchEstudos.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\bin\Debug\net8.0\TryCatchEstudos.dll
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\bin\Debug\net8.0\TryCatchEstudos.pdb
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\TryCatchEstudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\TryCatchEstudos.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\TryCatchEstudos.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\TryCatchEstudos.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\TryCatchEstudos.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\TryCatchEstudos.dll
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\refint\TryCatchEstudos.dll
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\TryCatchEstudos.pdb
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\TryCatchEstudos.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\TryCatchEstudos\obj\Debug\net8.0\ref\TryCatchEstudos.dll
