@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.exe
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.deps.json
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.dll
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\bin\Debug\net8.0\AreaTriangulo.pdb
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.dll
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\refint\AreaTriangulo.dll
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.pdb
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\AreaTriangulo.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\AreaTriangulo\obj\Debug\net8.0\ref\AreaTriangulo.dll
