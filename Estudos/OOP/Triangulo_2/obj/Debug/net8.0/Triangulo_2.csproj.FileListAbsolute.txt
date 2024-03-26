@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\bin\Debug\net8.0\Triangulo_2.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\bin\Debug\net8.0\Triangulo_2.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\bin\Debug\net8.0\Triangulo_2.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\bin\Debug\net8.0\Triangulo_2.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\bin\Debug\net8.0\Triangulo_2.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\Triangulo_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\Triangulo_2.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\Triangulo_2.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\Triangulo_2.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\Triangulo_2.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\Triangulo_2.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\refint\Triangulo_2.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\Triangulo_2.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\Triangulo_2.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Triangulo_2\obj\Debug\net8.0\ref\Triangulo_2.dll
