@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\Produto_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\Produto_3.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\Produto_3.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\Produto_3.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\Produto_3.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\bin\Debug\net8.0\Produto_3.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\bin\Debug\net8.0\Produto_3.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\bin\Debug\net8.0\Produto_3.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\bin\Debug\net8.0\Produto_3.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\bin\Debug\net8.0\Produto_3.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\Produto_3.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\refint\Produto_3.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\Produto_3.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\Produto_3.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Produto_3\obj\Debug\net8.0\ref\Produto_3.dll
