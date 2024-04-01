@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\Ex04.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\Ex04.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\bin\Debug\net8.0\Ex04.exe
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\bin\Debug\net8.0\Ex04.deps.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\bin\Debug\net8.0\Ex04.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\bin\Debug\net8.0\Ex04.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\bin\Debug\net8.0\Ex04.pdb
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\Ex04.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\refint\Ex04.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\Ex04.pdb
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\Ex04.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex04\obj\Debug\net8.0\ref\Ex04.dll
