@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\bin\Debug\net8.0\ProdEncProperties.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\bin\Debug\net8.0\ProdEncProperties.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\bin\Debug\net8.0\ProdEncProperties.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\bin\Debug\net8.0\ProdEncProperties.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\bin\Debug\net8.0\ProdEncProperties.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\ProdEncProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\ProdEncProperties.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\ProdEncProperties.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\ProdEncProperties.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\ProdEncProperties.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\ProdEncProperties.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\refint\ProdEncProperties.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\ProdEncProperties.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\ProdEncProperties.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncProperties\obj\Debug\net8.0\ref\ProdEncProperties.dll
