@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\bin\Debug\net8.0\ProdEncapsulamento_6.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\bin\Debug\net8.0\ProdEncapsulamento_6.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\bin\Debug\net8.0\ProdEncapsulamento_6.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\bin\Debug\net8.0\ProdEncapsulamento_6.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\bin\Debug\net8.0\ProdEncapsulamento_6.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\ProdEncapsulamento_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\ProdEncapsulamento_6.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\ProdEncapsulamento_6.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\ProdEncapsulamento_6.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\ProdEncapsulamento_6.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\ProdEncapsulamento_6.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\refint\ProdEncapsulamento_6.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\ProdEncapsulamento_6.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\ProdEncapsulamento_6.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\ProdEncapsulamento_6\obj\Debug\net8.0\ref\ProdEncapsulamento_6.dll
