@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\bin\Debug\net8.0\Struct_8.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\bin\Debug\net8.0\Struct_8.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\bin\Debug\net8.0\Struct_8.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\bin\Debug\net8.0\Struct_8.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\bin\Debug\net8.0\Struct_8.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\Struct_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\Struct_8.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\Struct_8.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\Struct_8.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\Struct_8.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\Struct_8.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\refint\Struct_8.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\Struct_8.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\Struct_8.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Struct_8\obj\Debug\net8.0\ref\Struct_8.dll
