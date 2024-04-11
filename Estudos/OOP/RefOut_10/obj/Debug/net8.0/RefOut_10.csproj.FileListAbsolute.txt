@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\bin\Debug\net8.0\RefOut_10.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\bin\Debug\net8.0\RefOut_10.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\bin\Debug\net8.0\RefOut_10.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\bin\Debug\net8.0\RefOut_10.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\bin\Debug\net8.0\RefOut_10.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\RefOut_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\RefOut_10.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\RefOut_10.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\RefOut_10.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\RefOut_10.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\RefOut_10.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\refint\RefOut_10.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\RefOut_10.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\RefOut_10.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\RefOut_10\obj\Debug\net8.0\ref\RefOut_10.dll
