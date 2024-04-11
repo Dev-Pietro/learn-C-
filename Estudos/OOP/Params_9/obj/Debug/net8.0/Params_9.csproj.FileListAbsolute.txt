@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\Params_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\Params_9.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\Params_9.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\Params_9.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\Params_9.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\bin\Debug\net8.0\Params_9.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\bin\Debug\net8.0\Params_9.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\bin\Debug\net8.0\Params_9.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\bin\Debug\net8.0\Params_9.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\bin\Debug\net8.0\Params_9.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\Params_9.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\refint\Params_9.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\Params_9.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\Params_9.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Params_9\obj\Debug\net8.0\ref\Params_9.dll
