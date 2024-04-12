@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\bin\Debug\net8.0\Heranca_11.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\bin\Debug\net8.0\Heranca_11.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\bin\Debug\net8.0\Heranca_11.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\bin\Debug\net8.0\Heranca_11.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\bin\Debug\net8.0\Heranca_11.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\Heranca_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\Heranca_11.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\Heranca_11.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\Heranca_11.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\Heranca_11.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\Heranca_11.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\refint\Heranca_11.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\Heranca_11.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\Heranca_11.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Heranca_11\obj\Debug\net8.0\ref\Heranca_11.dll
