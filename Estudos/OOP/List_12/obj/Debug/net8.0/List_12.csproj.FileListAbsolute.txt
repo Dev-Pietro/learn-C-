@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\bin\Debug\net8.0\List_12.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\bin\Debug\net8.0\List_12.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\bin\Debug\net8.0\List_12.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\bin\Debug\net8.0\List_12.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\bin\Debug\net8.0\List_12.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\List_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\List_12.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\List_12.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\List_12.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\List_12.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\List_12.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\refint\List_12.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\List_12.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\List_12.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\List_12\obj\Debug\net8.0\ref\List_12.dll
