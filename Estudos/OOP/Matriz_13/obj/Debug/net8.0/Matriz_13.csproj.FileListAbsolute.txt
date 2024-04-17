@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\Matriz_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\Matriz_13.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\Matriz_13.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\Matriz_13.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\Matriz_13.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\bin\Debug\net8.0\Matriz_13.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\bin\Debug\net8.0\Matriz_13.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\bin\Debug\net8.0\Matriz_13.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\bin\Debug\net8.0\Matriz_13.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\bin\Debug\net8.0\Matriz_13.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\Matriz_13.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\refint\Matriz_13.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\Matriz_13.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\Matriz_13.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Matriz_13\obj\Debug\net8.0\ref\Matriz_13.dll
