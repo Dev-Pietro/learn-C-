@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\bin\Debug\net8.0\Enum_14.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\bin\Debug\net8.0\Enum_14.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\bin\Debug\net8.0\Enum_14.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\bin\Debug\net8.0\Enum_14.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\bin\Debug\net8.0\Enum_14.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\Enum_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\Enum_14.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\Enum_14.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\Enum_14.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\Enum_14.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\Enum_14.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\refint\Enum_14.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\Enum_14.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\Enum_14.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Enum_14\obj\Debug\net8.0\ref\Enum_14.dll
