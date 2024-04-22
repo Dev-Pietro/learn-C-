@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\bin\Debug\net8.0\Sobreposicao_17.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\bin\Debug\net8.0\Sobreposicao_17.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\bin\Debug\net8.0\Sobreposicao_17.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\bin\Debug\net8.0\Sobreposicao_17.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\bin\Debug\net8.0\Sobreposicao_17.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\Sobreposicao_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\Sobreposicao_17.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\Sobreposicao_17.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\Sobreposicao_17.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\Sobreposicao_17.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\Sobreposicao_17.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\refint\Sobreposicao_17.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\Sobreposicao_17.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\Sobreposicao_17.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Sobreposicao_17\obj\Debug\net8.0\ref\Sobreposicao_17.dll
