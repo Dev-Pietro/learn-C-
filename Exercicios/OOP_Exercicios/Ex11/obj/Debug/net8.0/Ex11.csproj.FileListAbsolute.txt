@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\Ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\Ex11.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\Ex11.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\Ex11.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\Ex11.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\bin\Debug\net8.0\Ex11.exe
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\bin\Debug\net8.0\Ex11.deps.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\bin\Debug\net8.0\Ex11.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\bin\Debug\net8.0\Ex11.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\bin\Debug\net8.0\Ex11.pdb
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\Ex11.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\refint\Ex11.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\Ex11.pdb
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\Ex11.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex11\obj\Debug\net8.0\ref\Ex11.dll
