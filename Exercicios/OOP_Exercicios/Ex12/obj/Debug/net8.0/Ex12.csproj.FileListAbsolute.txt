@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\bin\Debug\net8.0\Ex12.exe
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\bin\Debug\net8.0\Ex12.deps.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\bin\Debug\net8.0\Ex12.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\bin\Debug\net8.0\Ex12.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\bin\Debug\net8.0\Ex12.pdb
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\Ex12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\Ex12.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\Ex12.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\Ex12.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\Ex12.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\Ex12.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\refint\Ex12.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\Ex12.pdb
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\Ex12.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex12\obj\Debug\net8.0\ref\Ex12.dll
