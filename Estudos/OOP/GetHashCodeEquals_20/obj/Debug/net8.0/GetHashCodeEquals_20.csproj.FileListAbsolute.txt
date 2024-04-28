@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\bin\Debug\net8.0\GetHashCodeEquals_20.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\bin\Debug\net8.0\GetHashCodeEquals_20.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\bin\Debug\net8.0\GetHashCodeEquals_20.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\bin\Debug\net8.0\GetHashCodeEquals_20.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\bin\Debug\net8.0\GetHashCodeEquals_20.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\GetHashCodeEquals_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\GetHashCodeEquals_20.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\GetHashCodeEquals_20.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\GetHashCodeEquals_20.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\GetHashCodeEquals_20.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\GetHashCodeEquals_20.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\refint\GetHashCodeEquals_20.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\GetHashCodeEquals_20.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\GetHashCodeEquals_20.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\GetHashCodeEquals_20\obj\Debug\net8.0\ref\GetHashCodeEquals_20.dll
