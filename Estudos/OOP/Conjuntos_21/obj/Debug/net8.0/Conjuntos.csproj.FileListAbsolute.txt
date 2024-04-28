@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\bin\Debug\net8.0\Conjuntos.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\bin\Debug\net8.0\Conjuntos.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\bin\Debug\net8.0\Conjuntos.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\bin\Debug\net8.0\Conjuntos.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\bin\Debug\net8.0\Conjuntos.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\Conjuntos.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\Conjuntos.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\Conjuntos.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\Conjuntos.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\refint\Conjuntos.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\Conjuntos.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\Conjuntos.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Conjuntos_21\obj\Debug\net8.0\ref\Conjuntos.dll
