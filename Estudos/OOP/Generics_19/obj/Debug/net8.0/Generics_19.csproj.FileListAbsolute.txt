@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\bin\Debug\net8.0\Generics_19.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\bin\Debug\net8.0\Generics_19.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\bin\Debug\net8.0\Generics_19.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\bin\Debug\net8.0\Generics_19.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\bin\Debug\net8.0\Generics_19.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\Generics_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\Generics_19.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\Generics_19.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\Generics_19.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\Generics_19.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\Generics_19.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\refint\Generics_19.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\Generics_19.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\Generics_19.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Generics_19\obj\Debug\net8.0\ref\Generics_19.dll
