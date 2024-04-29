@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\bin\Debug\net8.0\Dictionary_22.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\bin\Debug\net8.0\Dictionary_22.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\bin\Debug\net8.0\Dictionary_22.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\bin\Debug\net8.0\Dictionary_22.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\bin\Debug\net8.0\Dictionary_22.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\Dictionary_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\Dictionary_22.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\Dictionary_22.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\Dictionary_22.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\Dictionary_22.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\Dictionary_22.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\refint\Dictionary_22.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\Dictionary_22.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\Dictionary_22.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Dictionary_22\obj\Debug\net8.0\ref\Dictionary_22.dll
