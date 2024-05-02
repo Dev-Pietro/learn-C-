@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\bin\Debug\net8.0\Delegates_24.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\bin\Debug\net8.0\Delegates_24.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\bin\Debug\net8.0\Delegates_24.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\bin\Debug\net8.0\Delegates_24.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\bin\Debug\net8.0\Delegates_24.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\Delegates_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\Delegates_24.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\Delegates_24.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\Delegates_24.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\Delegates_24.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\Delegates_24.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\refint\Delegates_24.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\Delegates_24.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\Delegates_24.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Delegates_24\obj\Debug\net8.0\ref\Delegates_24.dll
