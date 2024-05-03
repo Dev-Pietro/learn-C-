@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\bin\Debug\net8.0\Linq2_27.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\bin\Debug\net8.0\Linq2_27.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\bin\Debug\net8.0\Linq2_27.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\bin\Debug\net8.0\Linq2_27.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\bin\Debug\net8.0\Linq2_27.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\Linq2_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\Linq2_27.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\Linq2_27.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\Linq2_27.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\Linq2_27.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\Linq2_27.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\refint\Linq2_27.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\Linq2_27.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\Linq2_27.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq2_27\obj\Debug\net8.0\ref\Linq2_27.dll
