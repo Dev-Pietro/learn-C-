@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\bin\Debug\net8.0\Predicate_25.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\bin\Debug\net8.0\Predicate_25.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\bin\Debug\net8.0\Predicate_25.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\bin\Debug\net8.0\Predicate_25.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\bin\Debug\net8.0\Predicate_25.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\Predicate_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\Predicate_25.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\Predicate_25.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\Predicate_25.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\Predicate_25.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\Predicate_25.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\refint\Predicate_25.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\Predicate_25.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\Predicate_25.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Predicate_25\obj\Debug\net8.0\ref\Predicate_25.dll
