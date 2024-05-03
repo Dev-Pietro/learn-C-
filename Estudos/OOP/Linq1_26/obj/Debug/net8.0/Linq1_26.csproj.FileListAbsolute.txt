@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\bin\Debug\net8.0\Linq1_26.exe
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\bin\Debug\net8.0\Linq1_26.deps.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\bin\Debug\net8.0\Linq1_26.runtimeconfig.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\bin\Debug\net8.0\Linq1_26.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\bin\Debug\net8.0\Linq1_26.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\Linq1_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\Linq1_26.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\Linq1_26.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\Linq1_26.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\Linq1_26.sourcelink.json
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\Linq1_26.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\refint\Linq1_26.dll
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\Linq1_26.pdb
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\Linq1_26.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Estudos\OOP\Linq1_26\obj\Debug\net8.0\ref\Linq1_26.dll
