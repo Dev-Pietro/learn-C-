@@ -1,0 +1,15 @@
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\bin\Debug\net8.0\Ex19.exe
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\bin\Debug\net8.0\Ex19.deps.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\bin\Debug\net8.0\Ex19.runtimeconfig.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\bin\Debug\net8.0\Ex19.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\bin\Debug\net8.0\Ex19.pdb
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\Ex19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\Ex19.AssemblyInfoInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\Ex19.AssemblyInfo.cs
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\Ex19.csproj.CoreCompileInputs.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\Ex19.sourcelink.json
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\Ex19.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\refint\Ex19.dll
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\Ex19.pdb
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\Ex19.genruntimeconfig.cache
+C:\Gabriel\Dev\C#\Exercicios\OOP_Exercicios\Ex19\obj\Debug\net8.0\ref\Ex19.dll
